@@ -17,6 +17,7 @@
     <string name="drink">Drink: </string>
     <string name="type_of_drink">Type of drink: </string>
     <string name="additives">Additives:</string>
+    <string name="error_empty_fields">You have empty fields!</string>
 
     <array name="types_of_tea">
         <item>Green</item>
